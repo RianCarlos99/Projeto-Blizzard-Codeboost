@@ -8,3 +8,5 @@ Tecnologias utilizadas:<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 <img src="https://upload.vectorlogo.zone/logos/gulpjs/images/858a382c-2ed1-41d2-a5d5-ab7d33b132f5.svg" alt="gulp" width="40" height="40"/> <br> <br>
+
+Site no Netlify: https://projeto-blizzard-codeboost.netlify.app/
